@@ -1,0 +1,12 @@
+﻿  AdvancedProgrammingAssignment.cpp
+  Device.cpp
+  HeatingThermostat.cpp
+C:\Users\billy\source\repos\AdvancedProgrammingAssignment\AdvancedProgrammingAssignment\HeatingThermostat.cpp(125,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Light.cpp
+  RadiatorValve.cpp
+C:\Users\billy\source\repos\AdvancedProgrammingAssignment\AdvancedProgrammingAssignment\RadiatorValve.cpp(81,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Socket.cpp
+  Speaker.cpp
+  TemperatureHumiditySensor.cpp
+  Generating Code...
+  AdvancedProgrammingAssignment.vcxproj -> C:\Users\billy\source\repos\AdvancedProgrammingAssignment\x64\Debug\AdvancedProgrammingAssignment.exe

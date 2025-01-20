@@ -1,0 +1,4 @@
+Speaker,LivingRoomSpeaker,1,50
+HeatingThermostat,HallwayThermostat,1,22
+RadiatorValve,KitchenValve,0,20
+Light,BedroomLight,1,80
