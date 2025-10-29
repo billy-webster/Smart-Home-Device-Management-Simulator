@@ -7,9 +7,7 @@ This repository contains a C++ console application for simulating smart home dev
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  
+- [Installation](#installation) 
 ---
 
 ## Overview
